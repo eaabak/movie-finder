@@ -38,8 +38,14 @@ This project is built with the following technologies:
    or 
    yarn install
 
-3. **Start the Application:**
- ```bash
+3. **Configure the API Key:**
+   ```bash
+   src/api/movieApi
+   const API_KEY = "YOUR_API_KEY";
+
+
+4. **Start the Application:**
+   ```bash
    npm run dev
    or 
    yarn dev
