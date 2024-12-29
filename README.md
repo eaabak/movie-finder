@@ -29,7 +29,7 @@ This project is built with the following technologies:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/movie-finder.git
+   git clone https://github.com/eaabak/movie-finder.git
    cd movie-finder
 
 2. **Install Dependencies:**
